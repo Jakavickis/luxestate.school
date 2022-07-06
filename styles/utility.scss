@@ -1,0 +1,7 @@
+@import './header/index';
+
+@mixin fcc ($horizontal, $vertical) {
+    display: flex;
+    justify-content: $horizontal;
+    ilign-items: $vertical;
+}

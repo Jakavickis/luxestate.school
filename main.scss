@@ -1,0 +1,10 @@
+@import './styles/styles';
+@import './styles/utility';
+@import './styles/header/header';
+@import './styles/themes';
+
+.container {
+    max-width: 1180px;
+    font-family: "Montserrat";
+    padding: 24px 24px;
+}
